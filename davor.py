@@ -1,1 +1,4 @@
-dobar dan
+
+print ("dobar dan svima")
+
+
